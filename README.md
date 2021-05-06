@@ -1,6 +1,6 @@
 # Resource conservation in the genetic code
 
-This repository contains the code used to replicate the analysis of resource conservation in the genetic code by [Shenhav & Zeevi, Science, 2020](https://science.sciencemag.org/content/370/6517/683.full).
+This repository contains the code used to analyze resource conservation in the genetic code. Details can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.02.04.429873v1).
 
 How to use the Jupyter notebook: 
 * run using **Python 3**
